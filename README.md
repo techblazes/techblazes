@@ -1,16 +1,13 @@
-## Hi there 👋
+# TechBlazes
 
-<!--
-**techblazes/techblazes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Practical cybersecurity training — courses, books and tools built around real labs.
 
-Here are some ideas to get you started:
+**Learn:** [Courses](https://techblazes.com/courses/) · [Learning paths](https://techblazes.com/paths/) · [Books](https://techblazes.com/books/) · [Tools](https://techblazes.com/tools/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Free:** [Articles](https://techblazes.com/blog/) · [Topics](https://techblazes.com/topics/)
+
+## Tools published here
+Coming soon — each tool sold on TechBlazes ships with its source, and the open-source ones live in this account.
+
+## Responsible use
+Everything here is for education and for testing systems you own or have written permission to test.
